@@ -1,0 +1,47 @@
+LOAN PORTFOLIO ANALYSIS REPORT
+==================================================
+
+1. PRODUCT FEATURES
+------------------------------
+Loan amount range: $70.00 to $3,500.00
+Average loan amount: $1,001.02
+Available tenures: 7, 14, 30 days
+
+Fee Structure:
+- 7-day loans: 10.00% effective interest rate
+- 14-day loans: 12.00% effective interest rate
+- 30-day loans: 15.00% effective interest rate
+
+2. REPAYMENT PATTERNS
+------------------------------
+Repayment Types:
+- Automatic: 41,827 (63.4%)
+- Manual: 24,189 (36.6%)
+
+Repayment Timing:
+- 7-day loans: 15.4 days on average
+- 14-day loans: 10.9 days on average
+- 30-day loans: -3.3 days on average
+
+3. PORTFOLIO METRICS
+------------------------------
+Total loan volume: $26,612,154.00
+Total fee revenue: $3,448,045.36
+Number of loans: 26,585
+Unique customers: 2,996
+Repeat customers: 2,919
+
+4. RISK METRICS
+------------------------------
+Total outstanding amount: $14,690,287.00
+Number of active loans: 13,315
+Repayment Performance:
+- Small loans: 19.9 days average repayment time
+- Medium loans: 0.1 days average repayment time
+- Large loans: -0.1 days average repayment time
+- Extra Large loans: 0.9 days average repayment time
+
+5. REVENUE FORECAST
+------------------------------
+Projected monthly revenue: $432,430.68
+3-month revenue forecast: $1,297,292.03
